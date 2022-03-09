@@ -1,0 +1,25 @@
+.navbar-dark {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  width: 35px;
+  height: 35px;
+  margin-right: 15px;
+}
+
+.search-bar {
+  width: 10px;
+}
+
+.navbar-dark .navbar-brand {
+  color: rgb(184, 217, 243);
+  display: inline-block;
+  justify-content: space-around;
+}
+.navbar-dark .navbar-brand:hover {
+  color: rgb(247, 245, 242);
+}
+.navbar-brand {
+  width: 130px;
+}

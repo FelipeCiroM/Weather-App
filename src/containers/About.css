@@ -1,0 +1,19 @@
+.about {
+  border-color: transparent;
+  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  filter: blur (40px);
+  color: rgb(11, 16, 17);
+  border-radius: 20px;
+  border: 3px;
+  height: 500px;
+  width: 550px;
+  display: inline-block;
+  align-content: center;
+  margin-top: 40px;
+  margin-block-start: 30px;
+}
+.margen {
+  margin: 20px;
+}
