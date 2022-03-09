@@ -8,7 +8,7 @@ export default function About() {
       <h2>Hola!</h2>
       <br />
       <h4>Soy Felipe Ciro Montoya </h4>
-      <h4>Estoy complacido de que uses mi App.</h4>
+      <h4>Estoy encantado de que uses mi App.</h4>
       <br />
       <br />
       <p className="margen">
